@@ -1,1 +1,1 @@
-AI Image Generation DALL-E MERN Clone
+# AI Image Generation DALL-E MERN Clone
