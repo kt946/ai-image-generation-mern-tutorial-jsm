@@ -1,5 +1,7 @@
 # AI Image Generation DALL-E MERN Clone
 
+![home-page-screenshot](https://user-images.githubusercontent.com/103476893/229875994-d8cfdac7-26d7-4dbe-9b28-9c9b93197cff.png)
+
 ## Description
 
 This project was built using a tutorial by [JavaScript Mastery](https://www.youtube.com/watch?v=EyIvuigqDoA) on youtube.
@@ -12,6 +14,7 @@ This project is a web application that uses the OpenAI DALL-E model to generate 
 
 - [Installation](#installation)
 - [Features](#features)
+- [Screenshots](#screenshots)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
 - [Links](#links)
@@ -48,6 +51,10 @@ CLOUDINARY_API_SECRET
 - Loading Indicators: The app displays loading indicators while images and other data are being fetched or processed to provide a smooth user experience.
 - Responsive Design: The app is designed to work on both desktop and mobile devices.
 - Save and Share: Users can download images from the community.
+
+## Screenshots
+
+![create-post-screenshot](https://user-images.githubusercontent.com/103476893/229876198-a811b2aa-b470-41a3-a41c-6b3850955d04.png)
 
 ## Technologies Used
 
